@@ -19,6 +19,7 @@ export const s = StyleSheet.create({
     },
     Text: {
         fontWeight: "bold",
-        color: "#000"
+        color: "#000",
+        fontSize: 16
     }
 })
