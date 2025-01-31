@@ -3,7 +3,6 @@ import { Dimensions, StyleSheet } from "react-native";
 export const s = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#bbb"
     },
     image: {
         width: Dimensions.get('window').width,
